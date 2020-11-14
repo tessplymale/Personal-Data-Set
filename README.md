@@ -1,6 +1,6 @@
 # Personal-Data-Set
 Personal data set for data analytics 115.
-![Graph](https://raw.githubusercontent.com/tessplymale/Personal-Data-Set/master/DataSetChart.png)
+![Chart](https://raw.githubusercontent.com/tessplymale/Personal-Data-Set/master/DataSetChart.png)
 
 This chart shows that as age increases, coffee consumption increases. However, there is a slight divot in the graph in 2016, 40-59 age category.
 Notice, how strong the correlation is between each line plotted, as well as, how consistent and steady they continue to increase.
@@ -9,6 +9,11 @@ Notice, how strong the correlation is between each line plotted, as well as, how
 
 This chart explores a different source, but also shows that as age increases, caffine consumption increases. However, the caffine consumption slights deteriorates as the age reaches 65+.
 Notice, how there is a trend of increase in the plotted points to show caffine consumption steadily increases with age.
+
+![Chart](https://raw.githubusercontent.com/tessplymale/Personal-Data-Set/master/CoffeeChart4.png)
+
+Considering the amount of cups of coffee consumed within a period of time analysis resulted in a week correlation between variables.
+As you can see, the amount of cups consumed does notice increase/decrease in a linear model. The variable results vary with as the amount of cups increase and decrease.
 
 ![Chart](https://raw.githubusercontent.com/tessplymale/Personal-Data-Set/master/DataChart3b.png)
 
