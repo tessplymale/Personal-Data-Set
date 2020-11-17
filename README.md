@@ -6,7 +6,7 @@ A large portion of the data was retrieved from the National Coffee Drinking Tren
 
 After analyzing the data from my source, I then set up a table comparing the year, age group and amount of coffee consumed. The age groups I used were the same as listed within the data. I only looked at the years 2012, 2014 and 2016 to have a smaller, more condensed table that was a stronger representation of how things change over time with age. I avoided using any person under the age of 18 due to inconsistency with the amount of coffee consumption recorded. I also grouped ages 60+ together becuase that is where the coffee consumption seemed to steady out and plateau. 
 
-I also analyzed a few other sources and breifly looked into their data sets. I created rough models from the data recorded to have a better understanding and higher accuracy of the results from the intial data set I analyzed. 
+I also analyzed a few other sources and breifly looked into their data sets. I created rough models from the data recorded to have a better understanding and higher accuracy of the results from the intial data set I analyzed. The second source was directly from the Caffine Informer data base. The second data set analyzes caffine consumption rather than coffee consumption, but is very strongly related. Although this data set mainly focused on caffine consumption based on region, it did have recorded information regarding age and caffine consumption.  I only used age groups that were in similar groupings as my first data set for comparison purposes. 
 
 ![Chart](https://raw.githubusercontent.com/tessplymale/Personal-Data-Set/master/DataSetChart.png)
 
@@ -17,6 +17,10 @@ Notice, how strong the correlation is between each line plotted, as well as, how
 
 This chart explores a different source, but also shows that as age increases, caffine consumption increases. However, the caffine consumption slights deteriorates as the age reaches 65+.
 Notice, how there is a trend of increase in the plotted points to show caffine consumption steadily increases with age.
+
+The next data set broke down the amount of pounds of coffee consumed by the continent.This data was very interesting to analyze as it provided more detail and imformation regarding the amount of coffee consumed throughout the world. For my third visualization, I took data from the Information Commissioners Office that upholds public interest and is an executive public body. Their information included coffee consumption data from all over the world, but I group it into continents for better analysis. I also converted the kilograms weight unit, to pounds. 
+
+For my last visualization, I took data from the CDC National Health and Nutrition Examination Survey from 2005. This survey had a variety of featured data regarding public health. My focal point was the amount of coffee consumed on a regular basis and how often people consumed coffee. I categorized the data into smaller groups for better analysis and chose the groups based on what I thought would make the most sense within the model, as well as what others could easily relate to. 
 
 ![Chart](https://raw.githubusercontent.com/tessplymale/Personal-Data-Set/master/CoffeeChart4.png)
 
