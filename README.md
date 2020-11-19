@@ -29,7 +29,6 @@ Notice, how there is a trend of increase in the plotted points to show caffine c
 
 For my third data set, I took data from the CDC National Health and Nutrition Examination Survey from 2005. This survey had a variety of featured data regarding public health. My focal point was the amount of coffee consumed on a regular basis and how often people consumed coffee. I categorized the data into smaller groups for better analysis and chose the groups based on what I thought would make the most sense within the model, as well as what others could easily relate to. 
 
-The next data set broke down the amount of pounds of coffee consumed by the continent.This data was very interesting to analyze as it provided more detail and imformation regarding the amount of coffee consumed throughout the world. For my third visualization, I took data from the Information Commissioners Office that upholds public interest and is an executive public body. Their information included coffee consumption data from all over the world, but I group it into continents for better analysis. I also converted the kilograms weight unit, to pounds.
 
 ![Chart](https://raw.githubusercontent.com/tessplymale/Personal-Data-Set/master/CoffeeChart4.png)
 
@@ -37,6 +36,8 @@ Considering the amount of cups of coffee consumed within a period of time analys
 As you can see, the amount of cups consumed does notice increase/decrease in a linear model. The variable results vary with as the amount of cups increase and decrease.
 
 ![Chart](https://raw.githubusercontent.com/tessplymale/Personal-Data-Set/master/DataChart3b.png)
+
+The next data set broke down the amount of pounds of coffee consumed by the continent.This data was very interesting to analyze as it provided more detail and imformation regarding the amount of coffee consumed throughout the world. For my third visualization, I took data from the Information Commissioners Office that upholds public interest and is an executive public body. Their information included coffee consumption data from all over the world, but I group it into continents for better analysis. I also converted the kilograms weight unit, to pounds.
 
 This chart analyzes the pounds of coffee consumed by continent. Europe has a significantly higher coffee consumption whereas Central America & Mexico have significantly smaller coffee consumptions.
 Notice, how some countries have very similar amounts of coffee consumption.
