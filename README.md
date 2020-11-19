@@ -12,13 +12,14 @@ After analyzing the data from my source, I then set up a table comparing the yea
 # Analysis
 I used the linear correlation technique to analyze the responses in my data displayed on the chart. This allowed me to closely determine which elements correlated with each other and which did not. I learned that overall, my data has a strong, positive correlation. I did notice a few outliers here and there that I would have missed without using this technique. By performing this analysis, I found an outlier in the coffee data from the age group of 40-59 in 2016. I noticed a trend that coffee consumption continued to increase as age increased. The data proved strong correlation between each of the age groups and years. I also used regressional analysis as an analysis technique. Similar to the linear correlation I analyzed how closely each of the responses were related. This allowed me to draw a similar conclusionto my previous analysis that the variable of age was related to the variable of coffee consumed. 
 
-# Further Data Analysis and Processing on Various Sources
-I also analyzed a few other sources and breifly looked into their data sets. I created rough models from the data recorded to have a better understanding and higher accuracy of the results from the intial data set I analyzed. The second source was directly from the Caffine Informer data base. The second data set analyzes caffine consumption rather than coffee consumption, but is very strongly related. Although this data set mainly focused on caffine consumption based on region, it did have recorded information regarding age and caffine consumption.  I only used age groups that were in similar groupings as my first data set for comparison purposes. 
 
 ![Chart](https://raw.githubusercontent.com/tessplymale/Personal-Data-Set/master/DataSetChart.png)
 
 This chart shows that as age increases, coffee consumption increases. However, there is a slight divot in the graph in 2016, 40-59 age category.
 Notice, how strong the correlation is between each line plotted, as well as, how consistent and steady they continue to increase.
+
+# Further Data Analysis and Processing on Various Sources
+I also analyzed a few other sources and breifly looked into their data sets. I created rough models from the data recorded to have a better understanding and higher accuracy of the results from the intial data set I analyzed. The second source was directly from the Caffine Informer data base. The second data set analyzes caffine consumption rather than coffee consumption, but is very strongly related. Although this data set mainly focused on caffine consumption based on region, it did have recorded information regarding age and caffine consumption.  I only used age groups that were in similar groupings as my first data set for comparison purposes. 
 
 ![Chart](https://raw.githubusercontent.com/tessplymale/Personal-Data-Set/master/CoffeeChart2.png)
 
