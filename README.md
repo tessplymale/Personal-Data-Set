@@ -42,3 +42,12 @@ The next data set broke down the amount of pounds of coffee consumed by the cont
 
 This chart analyzes the pounds of coffee consumed by continent. Europe has a significantly higher coffee consumption whereas Central America & Mexico have significantly smaller coffee consumptions.
 Notice, how some countries have very similar amounts of coffee consumption.
+
+# References 
+[1] http://michmerch.com/data/documents/National-Coffee-Drinking-Trends-2016-Market-Research-Reports.pdf
+
+[2] https://www.caffeineinformer.com/the-most-caffeinated-country
+
+[3] http://www.ico.org/prices/new-consumption-table.pdf
+
+[4] https://wwwn.cdc.gov/Nchs/Nhanes/2005-2006/FFQRAW_D.htm#FFQ0123
